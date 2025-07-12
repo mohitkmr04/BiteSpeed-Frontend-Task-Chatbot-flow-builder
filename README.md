@@ -1,5 +1,18 @@
-# BiteSpeed Frontend Task – Chatbot Flow Builder
+# BiteSpeed Frontend Task – Chatbot Flow Builder 💬
 
-🌐 Live Demo: [Click Here]([[bite-speed-frontend-task-chatbot-flow-builder-77wk64uea.vercel.app](https://bite-speed-frontend-task-chatbot-fl-sigma.vercel.app/)](https://bite-speed-frontend-task-chatbot-fl-sigma.vercel.app/))
+A React + React Flow + Tailwind CSS based chatbot flow builder for the BiteSpeed frontend task.
 
-This project is a chatbot flow builder built using React, React Flow, and Tailwind CSS.
+## 🚀 Live Demo  
+🔗 [View App](https://bite-speed-frontend-task-chatbot-fl-sigma.vercel.app/)
+
+## 🛠 Tech Stack
+- React
+- React Flow
+- Tailwind CSS
+- Vercel (for deployment)
+
+## 📦 Setup
+
+```bash
+npm install
+npm start
